@@ -1,5 +1,5 @@
-2013-10-23
-
+Scribus slide deck
+==================
 This folder contains scribus documents which are slide deck templates. Currently, there's only one: deck.sla.
 
 deck.sla
